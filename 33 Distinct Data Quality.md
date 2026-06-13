@@ -3,8 +3,11 @@
 ### Cross-File & Relational Integrity
 
 **1.** **Ghost Students:** Transactions logged for student IDs that do not exist in the main database. **Dropped**
+
 **2.** **Orphaned Submissions:** Assignments successfully submitted but missing entirely from the grading database. **Flagged**
+
 **3.** **Phantom Grades:** Quiz grades awarded on days with absolutely zero platform activity. **Flagged**
+
 **4.** **Ghost Submissions:** Assignments submitted on days with zero platform activity. **Flagged**
 **5.** **Chain Breaks:** Grades logged under a course chain the student is not officially enrolled in. **Dropped**
 **6.** **Syllabus Hallucinations:** Students evaluated on concepts belonging to a completely different course. **Dropped**
