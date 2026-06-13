@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy
 plotly
-scikit-learn
 pymongo
+scikit-learn
+statsmodels
