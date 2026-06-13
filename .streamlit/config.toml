@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color (a vibrant, modern blue for buttons/active tabs)
+primaryColor = "#2563EB" 
+
+# Background of the main app (clean white for readability, matching your screenshot)
+backgroundColor = "#FFFFFF" 
+
+# Background of the sidebar (a soft gray/blue tint to separate it from main content)
+secondaryBackgroundColor = "#F8FAFC" 
+
+# Text color (very dark slate/navy instead of harsh pure black)
+textColor = "#0F172A" 
+
+# Font family (sans-serif is standard for modern analytics dashboards)
+font = "sans serif"

@@ -1,0 +1,9 @@
+# .gitignore
+.streamlit/secrets.toml
+__pycache__/
+venv/
+common_env/
+.env
+
+# Exclude all local data storage
+data/
