@@ -88,7 +88,7 @@ img_html = f'<img src="data:image/png;base64,{logo_base64}" width="90">' if logo
 navbar_html = f"""
 <div class="kayfa-navbar">
     <div class="kayfa-navbar-left">
-        <h1>Student Analytics</h1>
+        <h1>Student Analytics - Week 2 Task</h1>
         <p><strong>Kayfa Systems:</strong> A simple, powerful dashboard that brings all your student data together. See how your students are learning, track their attendance, watch their progress, and easily spot who needs help to succeed.</p>
     </div>
     <div class="kayfa-navbar-right">
